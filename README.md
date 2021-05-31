@@ -116,5 +116,9 @@ Strike Value	0.895
 Instrument	CME JPYUSD
 
 
-You can find more details at
-https://finpricing.com/knowledge.html
+References:
+
+https://finpricing.com/lib/EqVariance.html
+
+https://bitbucket.org/cmrm11/fxoption/downloads/FxOption-22.pdf
+
